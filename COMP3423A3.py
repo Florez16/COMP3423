@@ -1,4 +1,3 @@
-# NG NG Kwan Lam 19056505d
 # COMP3423 Assignment 3
 
 class Camera:
